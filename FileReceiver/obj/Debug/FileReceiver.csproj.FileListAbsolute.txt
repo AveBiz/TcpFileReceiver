@@ -1,0 +1,1 @@
+d:\GitHub\TcpFileReceiver\FileReceiver\bin\Debug\FileReceiver.exe.config
